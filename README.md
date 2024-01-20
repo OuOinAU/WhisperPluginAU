@@ -1,7 +1,7 @@
 # [ 어몽어스 귓속말 플러그인 ]
 ## Among Us Whisper Plugin
 
-
+### 2차 수정 및 악용을 절대 금지합니다.
 
 - TownOfHost-Enhanced가 사용하는 BepInEx를 통해 개발됩니다.
 - 스팀, 에픽, Itch.io에서만 적용이 가능합니다. 즉, PC전용 플러그인입니다.
